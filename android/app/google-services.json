@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "182702470202",
+    "firebase_url": "https://parent-teacher-meet-default-rtdb.firebaseio.com",
+    "project_id": "parent-teacher-meet",
+    "storage_bucket": "parent-teacher-meet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182702470202:android:db284ffd8e372ee3877103",
+        "android_client_info": {
+          "package_name": "com.PtaMeeting.meetings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182702470202-leivht4ige32ta6esvj9v07vl6jaohgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYbluz5PmONdT04TnTg9b0lyJX62fQIlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182702470202-leivht4ige32ta6esvj9v07vl6jaohgi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
